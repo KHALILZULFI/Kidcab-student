@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.cab2u.customer.app-main-99:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/raw_notification.wav.flat",
+        "source": "com.cab2u.customer.app-main-99:/raw/notification.wav"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/xml_network_security_config.xml.flat",
+        "source": "com.cab2u.customer.app-main-99:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cab2u.customer.app-merged_res-97:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cab2u.customer.app-main-99:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

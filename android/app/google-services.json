@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512437145652",
+    "project_id": "cab2u-ddd3f",
+    "storage_bucket": "cab2u-ddd3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512437145652:android:c1af379963fd78f043ba61",
+        "android_client_info": {
+          "package_name": "com.cab2u.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUVYQyvAbo7Ly62iU_F47GnfKejafOkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
